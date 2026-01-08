@@ -1,0 +1,8 @@
+.tippy-box[data-theme~=lightwhite] {
+  position: absolute;
+  min-width: 208px;
+  box-shadow: 0 10px 60px 0 #4848481A;
+  top: 0;
+  right: 0;
+  transform: translate(9px, calc(-100% - 5px));
+}
